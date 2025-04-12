@@ -26,4 +26,3 @@ pip install requests
 nano chatbot.py
 ```
 - PASTE YOUR API KEY 
-
