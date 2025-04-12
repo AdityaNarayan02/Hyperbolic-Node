@@ -42,7 +42,7 @@ pip install requests
 ```
 nano chatbot.py
 ```
-- PASTE YOUR API KEY here "Bearer YOUR_API_KEY_HERE"
+- PASTE YOUR API KEY here "YOUR_API_KEY_HERE"
 - Use Arrows keys in the Terminal for Moving the Cursor
 - After you have pasted your API,then Click CTRL button given in the Terminal, then Press X
 - Then Press Y
