@@ -6,7 +6,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install git screen python3
 ```
 ```
-sudo apt install python3-pip
+sudo apt install python3.10-venv
 ```
 ```
 python3-pip python3-venv -y
