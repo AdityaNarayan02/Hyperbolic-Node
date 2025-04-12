@@ -1,7 +1,14 @@
 # Download Dependencies 
 ```
 sudo apt update && sudo apt upgrade -y
+```
+```
 sudo apt install git screen python3
+```
+```
+sudo apt install python3-pip
+```
+```
 python3-pip python3-venv -y
 ```
 
