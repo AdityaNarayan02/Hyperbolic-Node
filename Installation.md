@@ -41,4 +41,32 @@ sudo apt install nano
 ```
 nano chatbot.py
 ```
-- PASTE YOUR API KEY 
+- PASTE YOUR API KEY here "Bearer YOUR_API_KEY_HERE"
+- Use Arrows keys in the Terminal for Moving the Cursor
+- After you have pasted your API,then Click CTRL button given in the Terminal, then Press X
+- Then Press Y
+- Then Hit Enter
+
+![Image](https://github.com/user-attachments/assets/77026322-b3ea-4dba-b65e-7e65e80075e4)
+![Image](https://github.com/user-attachments/assets/23fd2149-7ea6-4003-afe5-83a427f0fbd6)
+
+# Now Run your Node
+```
+python3 chatbot.py
+```
+---
+
+# To Start Node Next Day
+```
+cd chatbot-app
+```
+```
+python3 -m venv venv
+```
+```
+source venv/bin/activate
+```
+```
+python3 chatbot.py
+```
+--- THE END ---
