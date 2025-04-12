@@ -27,4 +27,4 @@ nano chatbot.py
 ```
 - PASTE YOUR API KEY 
 
-(https://github.com/user-attachments/assets/66ff5005-78d6-4b33-9cca-869a610668cc)
+Image!(https://github.com/user-attachments/assets/66ff5005-78d6-4b33-9cca-869a610668cc)
