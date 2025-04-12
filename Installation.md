@@ -8,6 +8,9 @@ sudo apt install git screen python3
 ```
 sudo apt install python3.10-venv
 ```
+```
+sudo apt install nano
+```
 ---
 
 # Download Node
@@ -35,9 +38,7 @@ pip install requests
 ---
 
 # Connect Node to your API
-```
-sudo apt install nano
-```
+
 ```
 nano chatbot.py
 ```
