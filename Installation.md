@@ -17,16 +17,27 @@ git clone https://github.com/0xmoei/chatbot-app.git
 ```
 cd chatbot-app
 ```
+---
+
 # Create Python VW
 ```
 python3 -m venv venv
+```
+```
 source venv/bin/activate
 ```
+---
+
 ## Install Some Configuration Files
 ```
 pip install requests
 ```
+---
+
 # Connect Node to your API
+```
+sudo apt install nano
+```
 ```
 nano chatbot.py
 ```
